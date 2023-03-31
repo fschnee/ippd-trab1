@@ -3,6 +3,9 @@
 
 # N Rainhas
 
+!!! note Alunos
+    Frederico Schaun
+
 Para realizar o trabalho, foi implementado um algoritmo simples que explora todas as alternativas
 utilizando backtracking em C++20. Esse algoritmo foi invocado de duas formas:
 
