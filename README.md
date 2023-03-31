@@ -1,0 +1,1 @@
+Para rodar o código basta rodar `sh run.sh <nomedocomplilador>` passando um compilador com suporte à c++20 (default = g++), como por exemplo g++ >= 12.

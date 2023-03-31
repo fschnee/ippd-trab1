@@ -1,0 +1,14 @@
+n =  1: par =       0.011523ms  seq =       0.000122ms
+n =  2: par =       0.116953ms  seq =       0.000315ms
+n =  3: par =       0.010283ms  seq =       0.000768ms
+n =  4: par =       0.011223ms  seq =       0.002424ms
+n =  5: par =       0.022677ms  seq =       0.009080ms
+n =  6: par =       0.111059ms  seq =       0.037944ms
+n =  7: par =       0.198120ms  seq =       0.164667ms
+n =  8: par =       0.557916ms  seq =       0.610865ms
+n =  9: par =       0.753066ms  seq =       2.638783ms
+n = 10: par =       3.343121ms  seq =      12.372526ms
+n = 11: par =      22.088663ms  seq =      68.963979ms
+n = 12: par =      95.309948ms  seq =     356.092198ms
+n = 13: par =     554.690446ms  seq =    2269.950663ms
+n = 14: par =    4283.618907ms  seq =   27664.419457ms
